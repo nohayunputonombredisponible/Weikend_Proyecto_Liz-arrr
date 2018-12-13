@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 5a918a98517da7f498e705006af80bb1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Player_UV_OK:Head
+    100004: Player_UV_OK:HeadTop_End
+    100006: Player_UV_OK:Hips
+    100008: Player_UV_OK:LeftArm
+    100010: Player_UV_OK:LeftFoot
+    100012: Player_UV_OK:LeftForeArm
+    100014: Player_UV_OK:LeftHand
+    100016: Player_UV_OK:LeftHandIndex1
+    100018: Player_UV_OK:LeftHandIndex2
+    100020: Player_UV_OK:LeftHandIndex3
+    100022: Player_UV_OK:LeftHandIndex4
+    100024: Player_UV_OK:LeftHandMiddle1
+    100026: Player_UV_OK:LeftHandMiddle2
+    100028: Player_UV_OK:LeftHandMiddle3
+    100030: Player_UV_OK:LeftHandMiddle4
+    100032: Player_UV_OK:LeftHandThumb1
+    100034: Player_UV_OK:LeftHandThumb2
+    100036: Player_UV_OK:LeftHandThumb3
+    100038: Player_UV_OK:LeftHandThumb4
+    100040: Player_UV_OK:LeftLeg
+    100042: Player_UV_OK:LeftShoulder
+    100044: Player_UV_OK:LeftToe_End
+    100046: Player_UV_OK:LeftToeBase
+    100048: Player_UV_OK:LeftUpLeg
+    100050: Player_UV_OK:Low_Player
+    100052: Player_UV_OK:Neck
+    100054: Player_UV_OK:polySurface1
+    100056: Player_UV_OK:RightArm
+    100058: Player_UV_OK:RightFoot
+    100060: Player_UV_OK:RightForeArm
+    100062: Player_UV_OK:RightHand
+    100064: Player_UV_OK:RightHandIndex1
+    100066: Player_UV_OK:RightHandIndex2
+    100068: Player_UV_OK:RightHandIndex3
+    100070: Player_UV_OK:RightHandIndex4
+    100072: Player_UV_OK:RightHandMiddle1
+    100074: Player_UV_OK:RightHandMiddle2
+    100076: Player_UV_OK:RightHandMiddle3
+    100078: Player_UV_OK:RightHandMiddle4
+    100080: Player_UV_OK:RightHandThumb1
+    100082: Player_UV_OK:RightHandThumb2
+    100084: Player_UV_OK:RightHandThumb3
+    100086: Player_UV_OK:RightHandThumb4
+    100088: Player_UV_OK:RightLeg
+    100090: Player_UV_OK:RightShoulder
+    100092: Player_UV_OK:RightToe_End
+    100094: Player_UV_OK:RightToeBase
+    100096: Player_UV_OK:RightUpLeg
+    100098: Player_UV_OK:set1
+    100100: Player_UV_OK:set10
+    100102: Player_UV_OK:Spine
+    100104: Player_UV_OK:Spine1
+    100106: Player_UV_OK:Spine2
+    100108: Player_UV_OK:tweakSet1
+    400000: //RootNode
+    400002: Player_UV_OK:Head
+    400004: Player_UV_OK:HeadTop_End
+    400006: Player_UV_OK:Hips
+    400008: Player_UV_OK:LeftArm
+    400010: Player_UV_OK:LeftFoot
+    400012: Player_UV_OK:LeftForeArm
+    400014: Player_UV_OK:LeftHand
+    400016: Player_UV_OK:LeftHandIndex1
+    400018: Player_UV_OK:LeftHandIndex2
+    400020: Player_UV_OK:LeftHandIndex3
+    400022: Player_UV_OK:LeftHandIndex4
+    400024: Player_UV_OK:LeftHandMiddle1
+    400026: Player_UV_OK:LeftHandMiddle2
+    400028: Player_UV_OK:LeftHandMiddle3
+    400030: Player_UV_OK:LeftHandMiddle4
+    400032: Player_UV_OK:LeftHandThumb1
+    400034: Player_UV_OK:LeftHandThumb2
+    400036: Player_UV_OK:LeftHandThumb3
+    400038: Player_UV_OK:LeftHandThumb4
+    400040: Player_UV_OK:LeftLeg
+    400042: Player_UV_OK:LeftShoulder
+    400044: Player_UV_OK:LeftToe_End
+    400046: Player_UV_OK:LeftToeBase
+    400048: Player_UV_OK:LeftUpLeg
+    400050: Player_UV_OK:Low_Player
+    400052: Player_UV_OK:Neck
+    400054: Player_UV_OK:polySurface1
+    400056: Player_UV_OK:RightArm
+    400058: Player_UV_OK:RightFoot
+    400060: Player_UV_OK:RightForeArm
+    400062: Player_UV_OK:RightHand
+    400064: Player_UV_OK:RightHandIndex1
+    400066: Player_UV_OK:RightHandIndex2
+    400068: Player_UV_OK:RightHandIndex3
+    400070: Player_UV_OK:RightHandIndex4
+    400072: Player_UV_OK:RightHandMiddle1
+    400074: Player_UV_OK:RightHandMiddle2
+    400076: Player_UV_OK:RightHandMiddle3
+    400078: Player_UV_OK:RightHandMiddle4
+    400080: Player_UV_OK:RightHandThumb1
+    400082: Player_UV_OK:RightHandThumb2
+    400084: Player_UV_OK:RightHandThumb3
+    400086: Player_UV_OK:RightHandThumb4
+    400088: Player_UV_OK:RightLeg
+    400090: Player_UV_OK:RightShoulder
+    400092: Player_UV_OK:RightToe_End
+    400094: Player_UV_OK:RightToeBase
+    400096: Player_UV_OK:RightUpLeg
+    400098: Player_UV_OK:set1
+    400100: Player_UV_OK:set10
+    400102: Player_UV_OK:Spine
+    400104: Player_UV_OK:Spine1
+    400106: Player_UV_OK:Spine2
+    400108: Player_UV_OK:tweakSet1
+    2100000: No Name
+    2300000: Player_UV_OK:set1
+    2300002: Player_UV_OK:set10
+    2300004: Player_UV_OK:tweakSet1
+    3300000: Player_UV_OK:set1
+    3300002: Player_UV_OK:set10
+    3300004: Player_UV_OK:tweakSet1
+    4300000: Player_UV_OK:set1
+    4300002: Player_UV_OK:set10
+    4300004: Player_UV_OK:tweakSet1
+    4300006: Player_UV_OK:Low_Player
+    4300008: Player_UV_OK:polySurface1
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: Player_UV_OK:Low_Player
+    13700002: Player_UV_OK:polySurface1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WaterFall3
+  m_Shader: {fileID: 4800000, guid: 9ab26eeb9cf800644b024312bc26c3bb, type: 3}
+  m_ShaderKeywords: VERTEX
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SideNoiseTex:
+        m_Texture: {fileID: 2800000, guid: ae8ba95093edc254dab87ba4f2cd4068, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopNoiseTex:
+        m_Texture: {fileID: 2800000, guid: 2fc8cc8c44342b14f887a639056495dd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BrightNess: 1.2
+    - _EdgeWidth: 0.17
+    - _Foam: 3.31
+    - _HorSpeed: 0.14
+    - _NoiseScale: 0.025
+    - _RIM: 0
+    - _RimPower: 2.3
+    - _Softness: 0.032
+    - _TopScale: 0.122
+    - _TopSpread: 0.14
+    - _VERTEX: 1
+    - _VertSpeed: 8.33
+    m_Colors:
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0.1273585, g: 0.9044377, b: 1, a: 1}
+    - _TColor: {r: 0.18356179, g: 0.7075472, b: 0.6926149, a: 0.56078434}
+    - _WaterColor: {r: 0, g: 0.4060037, b: 1, a: 0.65882355}

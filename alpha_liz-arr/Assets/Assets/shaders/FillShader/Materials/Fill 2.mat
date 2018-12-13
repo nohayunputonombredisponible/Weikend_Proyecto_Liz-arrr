@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Fill 2
+  m_Shader: {fileID: 4800000, guid: 53f07e5c438ccf04bbeb8e0a8783d617, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 727babd9f1ef0be468453f0751e57c13, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 727babd9f1ef0be468453f0751e57c13, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Angle: 104.4
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _Degrees: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _FillAmount: 0.6
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Offset: -1.92
+    - _Offset2: 0.73
+    - _Offset3: 0
+    - _Parallax: 0.02
+    - _Phase: 0
+    - _Rim: 0.0846
+    - _Rim2: 0.39
+    - _RimPower: 1.59
+    - _Slosh: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _WobbleX: 0
+    - _WobbleZ: 0
+    - _ZWrite: 1
+    - _noiseScale: 0.15
+    - _texScale: 0.97
+    m_Colors:
+    - _Angle: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 0.8088235, b: 0.98681545, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FoamColor: {r: 1, g: 0.75735295, b: 0.75735295, a: 1}
+    - _RimColor: {r: 1, g: 0, b: 0.76551723, a: 1}
+    - _SideColor: {r: 0.96876264, g: 0.43382353, b: 1, a: 1}
+    - _Tint: {r: 0.7793102, g: 0, b: 1, a: 1}
+    - _TopColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Vector: {r: 1, g: 1, b: 1, a: 1}

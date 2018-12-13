@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 1721923f633346d4bb3c039223d5f2eb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Piedras:GeoSphere003_Vegetacion
+    100004: polySurface182
+    100006: polySurface209
+    100008: polySurface231
+    100010: pPlane7
+    100012: Vegetacion_Palmeras1:polySurface8
+    100014: Vegetacion_Piedras:GeoSphere004
+    100016: Vegetacion_Piedras:GeoSphere005
+    100018: Vegetacion_Piedras:GeoSphere006
+    100020: Vegetacion_Piedras:GeoSphere007
+    100022: Vegetacion_polySurface152
+    100024: Vegetacion_polySurface158
+    100026: Vegetacion_polySurface185_Sphere0040
+    100028: Vegetacion_Sphere0040_polySurface183
+    100030: Vegetacion_Sphere0040_polySurface184
+    100032: Vegetacion_Sphere0040_polySurface186
+    100034: Vegetacion_Sphere0040_polySurface187
+    100036: Vegetacion_Sphere0040_polySurface188
+    100038: Vegetacion_Sphere0040_polySurface189
+    100040: Vegetacion_Troncos:Cylinder002
+    100042: Vegetacion_Troncos:Cylinder003
+    400000: //RootNode
+    400002: Piedras:GeoSphere003_Vegetacion
+    400004: polySurface182
+    400006: polySurface209
+    400008: polySurface231
+    400010: pPlane7
+    400012: Vegetacion_Palmeras1:polySurface8
+    400014: Vegetacion_Piedras:GeoSphere004
+    400016: Vegetacion_Piedras:GeoSphere005
+    400018: Vegetacion_Piedras:GeoSphere006
+    400020: Vegetacion_Piedras:GeoSphere007
+    400022: Vegetacion_polySurface152
+    400024: Vegetacion_polySurface158
+    400026: Vegetacion_polySurface185_Sphere0040
+    400028: Vegetacion_Sphere0040_polySurface183
+    400030: Vegetacion_Sphere0040_polySurface184
+    400032: Vegetacion_Sphere0040_polySurface186
+    400034: Vegetacion_Sphere0040_polySurface187
+    400036: Vegetacion_Sphere0040_polySurface188
+    400038: Vegetacion_Sphere0040_polySurface189
+    400040: Vegetacion_Troncos:Cylinder002
+    400042: Vegetacion_Troncos:Cylinder003
+    2100000: Piedras_GeoSphere003_VegetacionMat
+    2100002: polySurface182Mat
+    2100004: polySurface209Mat
+    2100006: polySurface231Mat
+    2100008: pPlane7Mat
+    2100010: Vegetacion_Palmeras1_polySurface8Mat
+    2100012: Vegetacion_Piedras_GeoSphere004Mat
+    2100014: Vegetacion_Piedras_GeoSphere005Mat
+    2100016: Vegetacion_Piedras_GeoSphere006Mat
+    2100018: Vegetacion_Piedras_GeoSphere007Mat
+    2100020: Vegetacion_polySurface152Mat
+    2100022: Vegetacion_polySurface158Mat
+    2100024: Vegetacion_polySurface185_Sphere0040Mat
+    2100026: Vegetacion_Sphere0040_polySurface183Mat
+    2100028: Vegetacion_Sphere0040_polySurface184Mat
+    2100030: Vegetacion_Sphere0040_polySurface186Mat
+    2100032: Vegetacion_Sphere0040_polySurface187Mat
+    2100034: Vegetacion_Sphere0040_polySurface188Mat
+    2100036: Vegetacion_Sphere0040_polySurface189Mat
+    2100038: Vegetacion_Troncos_Cylinder002Mat
+    2100040: Vegetacion_Troncos_Cylinder003Mat
+    2300000: Piedras:GeoSphere003_Vegetacion
+    2300002: polySurface182
+    2300004: polySurface209
+    2300006: polySurface231
+    2300008: pPlane7
+    2300010: Vegetacion_Palmeras1:polySurface8
+    2300012: Vegetacion_Piedras:GeoSphere004
+    2300014: Vegetacion_Piedras:GeoSphere005
+    2300016: Vegetacion_Piedras:GeoSphere006
+    2300018: Vegetacion_Piedras:GeoSphere007
+    2300020: Vegetacion_polySurface152
+    2300022: Vegetacion_polySurface158
+    2300024: Vegetacion_polySurface185_Sphere0040
+    2300026: Vegetacion_Sphere0040_polySurface183
+    2300028: Vegetacion_Sphere0040_polySurface184
+    2300030: Vegetacion_Sphere0040_polySurface186
+    2300032: Vegetacion_Sphere0040_polySurface187
+    2300034: Vegetacion_Sphere0040_polySurface188
+    2300036: Vegetacion_Sphere0040_polySurface189
+    2300038: Vegetacion_Troncos:Cylinder002
+    2300040: Vegetacion_Troncos:Cylinder003
+    3300000: Piedras:GeoSphere003_Vegetacion
+    3300002: polySurface182
+    3300004: polySurface209
+    3300006: polySurface231
+    3300008: pPlane7
+    3300010: Vegetacion_Palmeras1:polySurface8
+    3300012: Vegetacion_Piedras:GeoSphere004
+    3300014: Vegetacion_Piedras:GeoSphere005
+    3300016: Vegetacion_Piedras:GeoSphere006
+    3300018: Vegetacion_Piedras:GeoSphere007
+    3300020: Vegetacion_polySurface152
+    3300022: Vegetacion_polySurface158
+    3300024: Vegetacion_polySurface185_Sphere0040
+    3300026: Vegetacion_Sphere0040_polySurface183
+    3300028: Vegetacion_Sphere0040_polySurface184
+    3300030: Vegetacion_Sphere0040_polySurface186
+    3300032: Vegetacion_Sphere0040_polySurface187
+    3300034: Vegetacion_Sphere0040_polySurface188
+    3300036: Vegetacion_Sphere0040_polySurface189
+    3300038: Vegetacion_Troncos:Cylinder002
+    3300040: Vegetacion_Troncos:Cylinder003
+    4300000: Piedras:GeoSphere003_Vegetacion
+    4300002: polySurface182
+    4300004: polySurface209
+    4300006: polySurface231
+    4300008: pPlane7
+    4300010: Vegetacion_Palmeras1:polySurface8
+    4300012: Vegetacion_Piedras:GeoSphere004
+    4300014: Vegetacion_Piedras:GeoSphere005
+    4300016: Vegetacion_Piedras:GeoSphere006
+    4300018: Vegetacion_Piedras:GeoSphere007
+    4300020: Vegetacion_polySurface152
+    4300022: Vegetacion_polySurface158
+    4300024: Vegetacion_polySurface185_Sphere0040
+    4300026: Vegetacion_Sphere0040_polySurface183
+    4300028: Vegetacion_Sphere0040_polySurface184
+    4300030: Vegetacion_Sphere0040_polySurface186
+    4300032: Vegetacion_Sphere0040_polySurface187
+    4300034: Vegetacion_Sphere0040_polySurface188
+    4300036: Vegetacion_Sphere0040_polySurface189
+    4300038: Vegetacion_Troncos:Cylinder002
+    4300040: Vegetacion_Troncos:Cylinder003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
